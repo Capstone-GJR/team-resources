@@ -1,0 +1,64 @@
+{
+  "comments": [
+    {
+      "canvasID": "s-7c3ace79-4c10-41fe-bf06-6385ed2574aa",
+      "elementID": "s-Panel_15",
+      "canvasURL": "screens/7c3ace79-4c10-41fe-bf06-6385ed2574aa",
+      "author": "Jenny Austin",
+      "authorID" : 73716619,
+      "code": 1,
+      "parentCode": null,
+      "content": "Room card can be color, or an image",
+      "timestamp": "1669779324787",
+      "date": "November 29, 2022, 9:35 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-7c3ace79-4c10-41fe-bf06-6385ed2574aa",
+      "elementID": "s-Image_7",
+      "canvasURL": "screens/7c3ace79-4c10-41fe-bf06-6385ed2574aa",
+      "author": "Jenny Austin",
+      "authorID" : 73716619,
+      "code": 2,
+      "parentCode": null,
+      "content": "More... \nOpens the settings for the room -> ability to edit name, change color (or photo), or change \"alias\"",
+      "timestamp": "1669779404929",
+      "date": "November 29, 2022, 9:36 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-9065f091-e8bc-47a7-ae58-2ed53e907987",
+      "elementID": "s-Panel_4",
+      "canvasURL": "screens/9065f091-e8bc-47a7-ae58-2ed53e907987",
+      "author": "Jenny Austin",
+      "authorID" : 73716619,
+      "code": 3,
+      "parentCode": null,
+      "content": "Each type of componenet should have a default color associated with it (similar to PP). but users can overide the default color by selecting a custom color choice or uploading a photo",
+      "timestamp": "1669825965445",
+      "date": "November 30, 2022, 10:32 AM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-7c3ace79-4c10-41fe-bf06-6385ed2574aa",
+      "elementID": "s-Panel_14",
+      "canvasURL": "screens/7c3ace79-4c10-41fe-bf06-6385ed2574aa",
+      "author": "Jenny Austin",
+      "authorID" : 73716619,
+      "code": 4,
+      "parentCode": null,
+      "content": "Filter? New USER STORY AND THE PAGE THAT OCCURS WHEN YOU CLICK",
+      "timestamp": "1669831021665",
+      "date": "November 30, 2022, 11:57 AM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}
